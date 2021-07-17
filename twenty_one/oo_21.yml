@@ -1,0 +1,31 @@
+
+enter_name: Please enter your name.
+no_name_error: Sorry, you must enter a value.
+welcome_message: Welcome to 21, %{data1}!
+intro_message: Today you will be playing against %{data1}.
+display_rules?: Would you like to review the game rules ('y' or 'n')?
+rules_1: You and %{data1} will each start with 2 cards.  You will only be able to see one of %{data1}'s cards.
+rules_2: Each card is worth its number value; face cards are each worth 10, and Ace cards can be 1 or 11 (whichever is most avantageous).
+rules_3: After seeing your cards, you may choose to "hit" (take another card), or "stay" (leave your hand as-is).
+rules_4: You may "hit" as many times as you wish, unless you exceed %{data1} points, in which case you Bust and lose immediately.
+rules_5: Following your turn, %{data1} will do the same, and whoever is closest to %{data2} points (without busting) wins.
+navigation_rules: Once you are done reading a screen (including this one), press 'Enter' to proceed.
+press_enter: (press 'enter' to continue)
+invalid_choice: Sorry, that's not a valid choice.
+current_turn: It's %{data1}'s turn!
+hand_points: = %{data1} has %{data2} for a total of %{data3} %{data4}.
+hand_points_visible: = %{data1} has %{data2} for a total of %{data3} %{data4}.
+hit_or_stay?: Would you like to hit (h) or stay (s)?
+hit: Hit!
+player_stay: You chose to stay.
+reveal_hidden_card: Time to find out what %{data1} has been hiding! The hidden card is...%{data2}!
+prompt_for_dealer_move: Let's see what %{data1}, does!
+dealer_stay: Looks like %{data1} is happy with their hand! %{data1} stays.
+new_card: The card added to %{data1}'s hand is a %{data2}, bringing %{data1}'s total to %{data3}.
+busted: Oh no! %{data1} busted!
+final_score: Here's the final score! You have %{data1}, %{data2} has %{data3}.
+player_won: Hooray! You beat %{data1}! Congratulations on your big win!
+dealer_won: Looks like %{data1} won this one. Better luck next time!
+tie: It's a tie! Everyone wins!
+play_again?: Would you like to play again? Please choose yes(y) or no(n).
+goodbye: Thank you for playing 21! Goodbye!
